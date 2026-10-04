@@ -1,6 +1,7 @@
 # Mémoire du projet
 
 _Dernière mise à jour : 2026-10-04_
+- Ajout pour commit de test
 
 ## Contexte
 - Parcours : bloc 1, 7 livrables (L1 à L7), cas fil rouge Terres Claires, 5 modules (voir `CLAUDE.md`).
